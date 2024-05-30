@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342536120196",
+    "project_id": "selekni-e7da2",
+    "storage_bucket": "selekni-e7da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342536120196:android:68e740057e353ed32f5fd1",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342536120196-3dnqdbaq3mabuntosbie92bo1a9pdsm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "e70f3a16d69781326cfdf238c16a0301bfdcb693"
+          }
+        },
+        {
+          "client_id": "342536120196-38gu05680sgv3vlq28uu6hh96663da42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvH1co38yRjg97EczmNl9OWIMjfqPVFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342536120196-38gu05680sgv3vlq28uu6hh96663da42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
